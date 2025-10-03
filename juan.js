@@ -8,3 +8,8 @@ function Hello(){
 function sumar(a, b){
     return a + b;
 }
+
+// funcion restar dos numeros
+function restar(a, b){
+    return a - b;
+}
