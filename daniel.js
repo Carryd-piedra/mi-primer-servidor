@@ -3,6 +3,6 @@ function Hello(){
 }
 function suma(){
 let igual;
-igual =1+7+5;
+igual =3+7+5;
 console.log(igual)
 }
